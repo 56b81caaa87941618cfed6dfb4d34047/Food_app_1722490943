@@ -6,7 +6,7 @@ Vue.component("simple_cta_component_1722490944", {
         <div id="cta-inner-container" class="max-w-screen-xl px-8 py-16 mx-auto backdrop-blur-md bg-white/30 rounded-3xl shadow-lg">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
-                    <h2 id="cta-title" class="flex-1 mb-6 text-4xl font-extrabold leading-tight tracking-wide text-white">Discover Delicious Flavors2</h2>
+                    <h2 id="cta-title" class="flex-1 mb-6 text-4xl font-extrabold leading-tight tracking-wide text-white">Discover Delicious Flavors3</h2>
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
