@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dark Mode toggle button for better user experience\", \"checked\": true}, {\"feature\": \"Customizable font sizes for accessibility\", \"checked\": false}, {\"feature\": \"Swipe gestures to navigate between recipes\", \"checked\": true}, {\"feature\": \"Voice commands for hands-free navigation and search\", \"checked\": false}, {\"feature\": \"Nutrition calculator for each recipe\", \"checked\": true}, {\"feature\": \"Favorites feature to save and organize preferred recipes\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 115, \"time_taken\": \"0:00:07.035204\"}",
+        "message_id": "guest01082024060816",
+        "timestamp": "01082024060827",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify where on the app's screen you would like the 'Zero' button to be positioned?\", \"option1\": \"Bottom center of the screen\", \"option2\": \"Top right corner of the screen\"}, {\"question 2\": \"What primary function should the 'Zero' button perform when clicked?\", \"option1\": \"Reset a counter or value to zero\", \"option2\": \"Filter search results to show zero-calorie foods\"}], \"input_token_count\": 257, \"output_token_count\": 106, \"time_taken\": \"0:00:02.240901\"}",
         "message_id": "guest01082024060816",
