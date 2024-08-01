@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, visible upon app launch\", \"option2\": \"In a specific section of the app, please specify\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Great' button?\", \"option1\": \"Yes, I have a specific color or style in mind\", \"option2\": \"No, feel free to choose a design that fits the app's theme\"}], \"input_token_count\": 307, \"output_token_count\": 120, \"time_taken\": \"0:00:03.270400\"}",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055745",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for the feature request! Working on it now.",
         "message_id": "guest01082024055740",
