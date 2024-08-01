@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dropdown menu for food categories\", \"checked\": true}, {\"feature\": \"Implement a search bar for quick food item lookup\", \"checked\": true}, {\"feature\": \"Introduce a 'Favorites' section for quick access to beloved dishes\", \"checked\": false}, {\"feature\": \"Enable customization options for dishes (e.g., spice level, ingredients)\", \"checked\": false}, {\"feature\": \"Incorporate user ratings and reviews for each food item\", \"checked\": true}, {\"feature\": \"Provide nutritional information and calorie count for dishes\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 122, \"time_taken\": \"0:00:04.542187\"}",
+        "message_id": "guest01082024060617",
+        "timestamp": "01082024060624",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a button that says \"Nine\".",
         "message_id": "guest01082024060617",
