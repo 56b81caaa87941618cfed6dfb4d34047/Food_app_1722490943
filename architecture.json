@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "add a button with text Zero"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with text Theming"
     }
 ]
