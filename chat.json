@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button  with text Great",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055741",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive \\u2018Rate Us\\u2019 pop-up prompting users to rate their experience\", \"checked\": true}, {\"feature\": \"Customizable theme settings for user preference\", \"checked\": false}, {\"feature\": \"Multi-language support button for wider accessibility\", \"checked\": false}, {\"feature\": \"Dynamic 'Recommended for You' section based on user behavior\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Social sharing button to share their favorite items with friends\", \"checked\": true}], \"input_token_count\": 211, \"output_token_count\": 113, \"time_taken\": \"0:00:04.678399\"}",
         "message_id": "guest01082024055559",
