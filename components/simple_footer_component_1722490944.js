@@ -8,8 +8,8 @@ Vue.component("simple_footer_component_1722490944", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-white">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
-                            FoodFinder - Your Culinary Companion
+                            <img id="footer-logo" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/tmpv3cscbhe/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
+                            FoodFinder - Your Culinary Companion1
                         </a>
                     </div>
                 </div>
