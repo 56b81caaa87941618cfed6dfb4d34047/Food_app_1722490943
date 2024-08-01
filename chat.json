@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic loading of food items as users scroll\", \"checked\": true}, {\"feature\": \"Add a search bar with filter options for cuisine, dietary restrictions, and ratings\", \"checked\": false}, {\"feature\": \"Integrate user reviews and ratings for each food item\", \"checked\": true}, {\"feature\": \"Enable social sharing of food items or recipes on social media platforms\", \"checked\": false}, {\"feature\": \"Incorporate a 'Favorites' feature to allow users to save their beloved dishes\", \"checked\": true}, {\"feature\": \"Implement a notification system for new dishes or promotions\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 144, \"time_taken\": \"0:00:03.901713\"}",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055745",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, visible upon app launch\", \"option2\": \"In a specific section of the app, please specify\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Great' button?\", \"option1\": \"Yes, I have a specific color or style in mind\", \"option2\": \"No, feel free to choose a design that fits the app's theme\"}], \"input_token_count\": 307, \"output_token_count\": 120, \"time_taken\": \"0:00:03.270400\"}",
         "message_id": "guest01082024055740",
