@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722490944",
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add a button that says \"Nine\".",
+        "message_id": "guest01082024060617",
+        "timestamp": "01082024060620",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text Great",
-        "timestamp": "01082024055600",
-        "message_id": "guest01082024055559"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll add a button with the text \"Great\".",
-        "timestamp": "01082024055601",
-        "message_id": "guest01082024055559"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, accessible at all times\", \"option2\": \"Within a specific section or page of the app\"}, {\"question 2\": \"What function should the 'Great' button perform when a user taps on it?\", \"option1\": \"Redirect to a feedback form or page\", \"option2\": \"Trigger an in-app celebration or acknowledgment\"}], \"input_token_count\": 257, \"output_token_count\": 108, \"time_taken\": \"0:00:04.525205\"}",
-        "timestamp": "01082024055605",
-        "message_id": "guest01082024055559"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive \\u2018Rate Us\\u2019 pop-up prompting users to rate their experience\", \"checked\": true}, {\"feature\": \"Customizable theme settings for user preference\", \"checked\": false}, {\"feature\": \"Multi-language support button for wider accessibility\", \"checked\": false}, {\"feature\": \"Dynamic 'Recommended for You' section based on user behavior\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Social sharing button to share their favorite items with friends\", \"checked\": true}], \"input_token_count\": 211, \"output_token_count\": 113, \"time_taken\": \"0:00:04.678399\"}",
-        "timestamp": "01082024055605",
-        "message_id": "guest01082024055559"
-    },
-    {
-        "role": "user",
-        "content": "add a button  with text Great",
-        "timestamp": "01082024055741",
-        "message_id": "guest01082024055740"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Thanks for the feature request! Working on it now.",
-        "timestamp": "01082024055741",
-        "message_id": "guest01082024055740"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, visible upon app launch\", \"option2\": \"In a specific section of the app, please specify\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Great' button?\", \"option1\": \"Yes, I have a specific color or style in mind\", \"option2\": \"No, feel free to choose a design that fits the app's theme\"}], \"input_token_count\": 307, \"output_token_count\": 120, \"time_taken\": \"0:00:03.270400\"}",
-        "timestamp": "01082024055745",
-        "message_id": "guest01082024055740"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic loading of food items as users scroll\", \"checked\": true}, {\"feature\": \"Add a search bar with filter options for cuisine, dietary restrictions, and ratings\", \"checked\": false}, {\"feature\": \"Integrate user reviews and ratings for each food item\", \"checked\": true}, {\"feature\": \"Enable social sharing of food items or recipes on social media platforms\", \"checked\": false}, {\"feature\": \"Incorporate a 'Favorites' feature to allow users to save their beloved dishes\", \"checked\": true}, {\"feature\": \"Implement a notification system for new dishes or promotions\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 144, \"time_taken\": \"0:00:03.901713\"}",
-        "timestamp": "01082024055745",
-        "message_id": "guest01082024055740"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button with text Nine",
+        "message_id": "guest01082024060617",
         "timestamp": "01082024060619",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic loading of food items as users scroll\", \"checked\": true}, {\"feature\": \"Add a search bar with filter options for cuisine, dietary restrictions, and ratings\", \"checked\": false}, {\"feature\": \"Integrate user reviews and ratings for each food item\", \"checked\": true}, {\"feature\": \"Enable social sharing of food items or recipes on social media platforms\", \"checked\": false}, {\"feature\": \"Incorporate a 'Favorites' feature to allow users to save their beloved dishes\", \"checked\": true}, {\"feature\": \"Implement a notification system for new dishes or promotions\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 144, \"time_taken\": \"0:00:03.901713\"}",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055745",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, visible upon app launch\", \"option2\": \"In a specific section of the app, please specify\"}, {\"question 2\": \"Do you have any specific color or style preferences for the 'Great' button?\", \"option1\": \"Yes, I have a specific color or style in mind\", \"option2\": \"No, feel free to choose a design that fits the app's theme\"}], \"input_token_count\": 307, \"output_token_count\": 120, \"time_taken\": \"0:00:03.270400\"}",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055745",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for the feature request! Working on it now.",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055741",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button  with text Great",
+        "message_id": "guest01082024055740",
+        "timestamp": "01082024055741",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive \\u2018Rate Us\\u2019 pop-up prompting users to rate their experience\", \"checked\": true}, {\"feature\": \"Customizable theme settings for user preference\", \"checked\": false}, {\"feature\": \"Multi-language support button for wider accessibility\", \"checked\": false}, {\"feature\": \"Dynamic 'Recommended for You' section based on user behavior\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Social sharing button to share their favorite items with friends\", \"checked\": true}], \"input_token_count\": 211, \"output_token_count\": 113, \"time_taken\": \"0:00:04.678399\"}",
+        "message_id": "guest01082024055559",
+        "timestamp": "01082024055605",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app?\", \"option1\": \"On the main screen, accessible at all times\", \"option2\": \"Within a specific section or page of the app\"}, {\"question 2\": \"What function should the 'Great' button perform when a user taps on it?\", \"option1\": \"Redirect to a feedback form or page\", \"option2\": \"Trigger an in-app celebration or acknowledgment\"}], \"input_token_count\": 257, \"output_token_count\": 108, \"time_taken\": \"0:00:04.525205\"}",
+        "message_id": "guest01082024055559",
+        "timestamp": "01082024055605",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add a button with the text \"Great\".",
+        "message_id": "guest01082024055559",
+        "timestamp": "01082024055601",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Great",
+        "message_id": "guest01082024055559",
+        "timestamp": "01082024055600",
+        "component_file_name": "simple_cta_component_1722491676",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "01082024060620",
         "message_id": "guest01082024060617"
     }
 ]
