@@ -36,5 +36,11 @@
         "content": "add a button  with text Great",
         "timestamp": "01082024055741",
         "message_id": "guest01082024055740"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for the feature request! Working on it now.",
+        "timestamp": "01082024055741",
+        "message_id": "guest01082024055740"
     }
 ]
