@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Nine' button to have a specific function or linkage? If so, what function or page should it link to?\", \"option1\": \"Link to an existing page within the app\", \"option2\": \"Trigger a specific function (e.g., open a dialog, form submission)\"}, {\"question 2\": \"How do you envision the design and placement of the 'Nine' button within the app's interface?\", \"option1\": \"Follow the app's existing button design and placement guidelines\", \"option2\": \"Design a unique style and placement for this button\"}], \"input_token_count\": 257, \"output_token_count\": 133, \"time_taken\": \"0:00:04.743211\"}",
+        "message_id": "guest01082024060617",
+        "timestamp": "01082024060625",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dropdown menu for food categories\", \"checked\": true}, {\"feature\": \"Implement a search bar for quick food item lookup\", \"checked\": true}, {\"feature\": \"Introduce a 'Favorites' section for quick access to beloved dishes\", \"checked\": false}, {\"feature\": \"Enable customization options for dishes (e.g., spice level, ingredients)\", \"checked\": false}, {\"feature\": \"Incorporate user ratings and reviews for each food item\", \"checked\": true}, {\"feature\": \"Provide nutritional information and calorie count for dishes\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 122, \"time_taken\": \"0:00:04.542187\"}",
+        "message_id": "guest01082024060617",
+        "timestamp": "01082024060624",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a button that says \"Nine\".",
         "message_id": "guest01082024060617",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll add a button with the text \"Great\".",
-        "message_id": "guest01082024055559",
-        "timestamp": "01082024055601",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text Great",
-        "message_id": "guest01082024055559",
-        "timestamp": "01082024055600",
-        "component_file_name": "simple_cta_component_1722491676",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "01082024060620",
+        "content": "In the conversation, the user requested the addition of a button labeled \"Great\" to their project, to which the AI assistant responded by acknowledging the request and asking for a more detailed description of the project to better understand how to implement the requested feature properly.",
+        "timestamp": "01082024060625",
         "message_id": "guest01082024060617"
     }
 ]
