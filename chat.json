@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Zero",
+        "message_id": "guest01082024060816",
+        "timestamp": "01082024060819",
+        "component_file_name": "simple_cta_component_1722492348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Nine' button to have a specific function or linkage? If so, what function or page should it link to?\", \"option1\": \"Link to an existing page within the app\", \"option2\": \"Trigger a specific function (e.g., open a dialog, form submission)\"}, {\"question 2\": \"How do you envision the design and placement of the 'Nine' button within the app's interface?\", \"option1\": \"Follow the app's existing button design and placement guidelines\", \"option2\": \"Design a unique style and placement for this button\"}], \"input_token_count\": 257, \"output_token_count\": 133, \"time_taken\": \"0:00:04.743211\"}",
         "message_id": "guest01082024060617",
