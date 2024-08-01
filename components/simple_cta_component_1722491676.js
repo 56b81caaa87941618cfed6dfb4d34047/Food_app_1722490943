@@ -19,7 +19,7 @@ Vue.component("simple_cta_component_1722491676", {
                 </div>
                 <div id="great-button-container" class="flex mt-4">
                     <a id="great-button" href="#" class="flex-1 text-purple-800 bg-pink-200 bg-opacity-70 hover:bg-opacity-90 focus:ring-4 focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Great</a>
-                    <a id="theming-button" href="#" class="flex-1 text-purple-800 bg-pink-200 bg-opacity-70 hover:bg-opacity-90 focus:ring-4 focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Theming</a>
+                    <a id="theming-button" href="#" class="flex-1 text-purple-800 bg-pink-200 bg-opacity-70 hover:bg-opacity-90 focus:ring-4 focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Themings</a>
                 </div>
         </div>
     </section>
