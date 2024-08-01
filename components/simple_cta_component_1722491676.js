@@ -10,7 +10,7 @@ Vue.component("simple_cta_component_1722491676", {
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
-                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-pink-100 md:text-lg">Embark on a cosmic culinary journey through our collection of otherworldly recipes.</p>
+                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-pink-100 md:text-lg">Embark on a cosmic culinary journey through our collection of otherworldly recipes1.</p>
                 </div>
                 
                 <div id="cta-button-container" class="flex">
